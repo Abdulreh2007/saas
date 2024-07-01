@@ -21,7 +21,7 @@ export const navLinks = [
     },
     {
       label: "Object Recolor",
-      route: "/transformations/add/recolor",
+      route: "/Transformations/add/recolor",
       icon: "/assets/icons/filter.svg",
     },
     {
