@@ -13,7 +13,7 @@ export interface IImage extends Document {
   color?: string;
   prompt?: string;
   author: {
-    _id: string;
+    _id: string ;
     firstName: string;
     lastName: string;
   }
